@@ -1,0 +1,710 @@
+[INFO] [2016-04-08 14:03:32][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 14:03:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 14:03:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 14:03:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 14:03:42][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 14:03:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 14:03:48][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 14:03:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 14:03:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 14:03:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 14:04:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 14:04:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 14:04:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 14:04:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 14:04:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [INFO] [2016-04-08 14:04:16][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [INFO] [2016-04-08 14:04:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 14:04:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [INFO] [2016-04-08 14:04:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [INFO] [2016-04-08 14:04:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [INFO] [2016-04-08 14:04:33][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [INFO] [2016-04-08 14:04:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 14:04:39][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-08 14:04:42][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-08 14:04:45][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  [INFO] [2016-04-08 14:09:37][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 14:09:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 14:09:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 14:14:05][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 14:14:05][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 14:14:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 14:14:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 14:14:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 14:14:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 14:15:10][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 14:15:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 14:15:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 14:15:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 14:15:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 14:54:31][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 14:54:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 14:54:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 14:54:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 14:54:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 14:54:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 14:54:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 14:54:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 14:54:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 14:54:55][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 14:54:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 14:55:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 14:55:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 14:55:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 14:55:13][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-08 14:55:14][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-08 14:55:14][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 14:55:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-08 14:55:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-08 14:55:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-08 14:55:18][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-08 14:55:18][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at java.util.regex.Matcher.getTextLength(Matcher.java:1283)
+	at java.util.regex.Matcher.reset(Matcher.java:309)
+	at java.util.regex.Matcher.<init>(Matcher.java:229)
+	at java.util.regex.Pattern.matcher(Pattern.java:1093)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.removeHtmlTag(SinaBlogProcessor.java:53)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 14:55:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 15:26:28][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:26:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 15:26:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 15:26:35][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 15:26:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 15:26:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 15:26:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 15:26:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 15:26:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 15:26:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 15:26:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 15:30:35][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:30:35][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 15:30:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 15:30:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 15:30:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 15:31:06][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:31:06][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 15:31:09][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 15:31:12][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 15:31:15][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 15:31:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 15:31:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 15:31:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 15:31:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 15:31:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 15:31:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 15:31:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 15:31:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 15:31:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 15:31:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-08 15:31:46][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-08 15:31:46][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 15:31:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-08 15:31:50][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-08 15:31:50][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-08 15:31:50][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-08 15:31:51][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:42)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:31:51][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 15:31:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-08 15:31:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-08 15:32:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  [INFO] [2016-04-08 15:42:50][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:42:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [WARN] [2016-04-08 15:42:50][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\4308d92378673de1b4727c320126346c.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:42:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [WARN] [2016-04-08 15:42:53][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\80d1e56945dd0a68ab80dfee747f8238.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:42:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [WARN] [2016-04-08 15:42:56][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\a2d51422f20d74f94c8e1ce6b69f1ac7.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:42:59][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [WARN] [2016-04-08 15:42:59][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\53b3bf161871aea7f6b8540c7f66eafb.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:43:02][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [WARN] [2016-04-08 15:43:02][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\aafd75bdbd467a15b649fc7a7ea85757.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:43:05][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [WARN] [2016-04-08 15:43:05][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\cf5c29912bbccc600b17883a65a7f410.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:45:00][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:45:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [WARN] [2016-04-08 15:45:00][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\4308d92378673de1b4727c320126346c.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:45:03][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [WARN] [2016-04-08 15:45:04][us.codecraft.webmagic.pipeline.JsonFilePipeline]write file error
+  java.io.FileNotFoundException: D:\webmagic\blog.sina.com.cn\80d1e56945dd0a68ab80dfee747f8238.json (系统找不到指定的路径。)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at java.io.FileWriter.<init>(FileWriter.java:90)
+	at us.codecraft.webmagic.pipeline.JsonFilePipeline.process(JsonFilePipeline.java:40)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:424)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:45:37][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 15:45:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 15:45:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 15:45:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 15:45:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 15:45:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 15:45:53][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 15:45:56][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 15:45:59][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 15:46:02][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 15:46:05][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 15:46:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 15:46:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 15:46:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 15:46:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-08 15:46:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-08 15:46:18][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 15:46:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-08 15:46:21][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:21][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-08 15:46:22][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-08 15:46:22][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-08 15:46:23][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at us.codecraft.webmagic.samples.SinaBlogProcessor.process(SinaBlogProcessor.java:43)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 15:46:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 15:46:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-08 15:46:29][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-08 15:46:32][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  [INFO] [2016-04-08 17:08:43][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 17:08:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 17:08:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 17:08:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 17:08:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 17:08:55][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 17:08:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 17:09:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 17:09:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 17:09:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 17:09:10][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 17:09:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 17:09:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 17:09:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 17:09:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-08 17:09:23][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-08 17:09:23][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 17:09:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-08 17:09:26][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-08 17:09:27][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-08 17:09:27][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-08 17:09:27][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:63)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:09:27][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 17:09:30][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-08 17:09:33][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-08 17:09:36][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  [INFO] [2016-04-08 17:10:34][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-08 17:10:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-08 17:10:37][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-08 17:10:40][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-08 17:10:43][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-08 17:10:46][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-08 17:10:49][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-08 17:10:52][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-08 17:10:55][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-08 17:10:58][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-08 17:11:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-08 17:11:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-08 17:11:07][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-08 17:11:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-08 17:11:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-08 17:11:14][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-08 17:11:14][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-08 17:11:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-08 17:11:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-08 17:11:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-08 17:11:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-08 17:11:17][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-08 17:11:17][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-08 17:11:20][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-08 17:11:23][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-08 17:11:26][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  [INFO] [2016-04-11 12:56:14][us.codecraft.webmagic.Spider]Spider blog.sina.com.cn started!
+  [INFO] [2016-04-11 12:56:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html
+  [INFO] [2016-04-11 12:56:18][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w8kl.html
+  [INFO] [2016-04-11 12:56:22][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w3ta.html
+  [INFO] [2016-04-11 12:56:25][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w2xg.html
+  [INFO] [2016-04-11 12:56:28][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102w1h4.html
+  [INFO] [2016-04-11 12:56:31][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vztr.html
+  [INFO] [2016-04-11 12:56:34][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vuot.html
+  [INFO] [2016-04-11 12:56:38][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vssq.html
+  [INFO] [2016-04-11 12:56:41][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vs0t.html
+  [INFO] [2016-04-11 12:56:44][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vqug.html
+  [INFO] [2016-04-11 12:56:47][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vow8.html
+  [INFO] [2016-04-11 12:56:50][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vnvf.html
+  [INFO] [2016-04-11 12:56:54][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vmux.html
+  [INFO] [2016-04-11 12:56:57][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vlpa.html
+  [INFO] [2016-04-11 12:57:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html
+  [ERROR] [2016-04-11 12:57:00][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vj5a.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:00][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html
+  [ERROR] [2016-04-11 12:57:01][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102viko.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:01][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vgp8.html
+  [INFO] [2016-04-11 12:57:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html
+  [ERROR] [2016-04-11 12:57:04][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vfv0.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html
+  [ERROR] [2016-04-11 12:57:04][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vevk.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:04][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html
+  [ERROR] [2016-04-11 12:57:05][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vdog.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:05][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html
+  [ERROR] [2016-04-11 12:57:05][us.codecraft.webmagic.Spider]process request Request{url='http://blog.sina.com.cn/s/blog_6f58e8cd0102vcac.html', method='null', extras={statusCode=200}, priority=0} error
+  java.lang.NullPointerException
+	at SinaBlogProcessor.stripHtml(SinaBlogProcessor.java:65)
+	at SinaBlogProcessor.process(SinaBlogProcessor.java:41)
+	at us.codecraft.webmagic.Spider.processRequest(Spider.java:420)
+	at us.codecraft.webmagic.Spider$1.run(Spider.java:322)
+	at us.codecraft.webmagic.selector.thread.CountableThreadPool$1.run(CountableThreadPool.java:74)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[INFO] [2016-04-11 12:57:05][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102vavx.html
+  [INFO] [2016-04-11 12:57:08][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102v79g.html
+  [INFO] [2016-04-11 12:57:11][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0102uwp4.html
+  [INFO] [2016-04-11 12:57:14][us.codecraft.webmagic.downloader.HttpClientDownloader]downloading page http://blog.sina.com.cn/s/blog_6f58e8cd0101c9k7.html
+  
