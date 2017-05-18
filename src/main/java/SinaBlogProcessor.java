@@ -12,12 +12,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author code4crafter@gmail.com <br>
+ * @Author 阁楼麻雀
+ * @Date 2017/4/26
+ * @Desc webmagic爬虫新浪博客
  */
 public class SinaBlogProcessor implements PageProcessor {
 
-    public static final String URL_LIST = "http://blog\\.sina\\.com\\.cn/s/articlelist_1868097741_0_\\d+\\.html";
-
+    public static final String URL_LIST = "http://blog\\.sina\\.com\\.cn/s/articlelist_1229071681_0_\\d+\\.html";
     public static final String URL_POST = "http://blog\\.sina\\.com\\.cn/s/blog_\\w+\\.html";
 
     private Site site = Site
@@ -30,12 +31,10 @@ public class SinaBlogProcessor implements PageProcessor {
 
     @Override
     public void process(Page page) {
-        //列表页
-        if (page.getUrl().regex(URL_LIST).match()) {
+        if (page.getUrl().regex(URL_LIST).match()) {//列表页
             page.addTargetRequests(page.getHtml().xpath("//div[@class=\"articleList\"]").links().regex(URL_POST).all());
             page.addTargetRequests(page.getHtml().links().regex(URL_LIST).all());
-            //文章页
-        } else {
+        } else {//文章页
             page.putField("title", page.getHtml().xpath("//div[@class='articalTitle']/h2/text()").toString());
             page.putField("date", page.getHtml().xpath("//div[@id='articlebody']//span[@class='time SG_txtc']").regex("\\((.*)\\)"));
             page.putField("content", stripHtml(page.getHtml().xpath("//div[@id='articlebody']//div[@class='articalContent']").toString()));
@@ -74,7 +73,7 @@ public class SinaBlogProcessor implements PageProcessor {
 
     public static void main(String[] args) {
         Spider.create(new SinaBlogProcessor())
-                .addUrl("http://blog.sina.com.cn/s/articlelist_1868097741_0_1.html")
+                .addUrl("http://blog.sina.com.cn/s/articlelist_1229071681_0_1.html")
                 .addPipeline(new JsonFilePipeline("D:\\webmagic\\"))
                 .run();
     }
